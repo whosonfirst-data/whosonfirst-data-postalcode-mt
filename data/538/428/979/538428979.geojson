@@ -1,0 +1,50 @@
+{
+  "id": 538428979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"MT",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191581,
+        101752385,
+        85633331,
+        85686805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12739018"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":101752385,
+            "postalcode_id":538428979,
+            "region_id":85686805
+        }
+    ],
+    "wof:id":538428979,
+    "wof:lastmodified":1460075976,
+    "wof:name":"ZRQ",
+    "wof:parent_id":"101752385",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
